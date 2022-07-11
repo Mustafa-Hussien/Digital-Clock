@@ -1,0 +1,16 @@
+body {
+    background-color: #000;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+p {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:cyan;
+    font-size: 64px;
+}
